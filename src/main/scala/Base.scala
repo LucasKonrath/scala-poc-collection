@@ -1,0 +1,1 @@
+trait Base(var occupied: Boolean)

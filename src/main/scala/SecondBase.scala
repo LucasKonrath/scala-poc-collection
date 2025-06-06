@@ -1,0 +1,1 @@
+class SecondBase extends Base(false)

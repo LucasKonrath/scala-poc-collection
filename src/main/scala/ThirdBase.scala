@@ -1,0 +1,1 @@
+class ThirdBase extends Base(false)

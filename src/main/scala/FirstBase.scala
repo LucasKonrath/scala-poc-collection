@@ -1,0 +1,1 @@
+class FirstBase extends Base(false)
